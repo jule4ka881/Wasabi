@@ -1,4 +1,4 @@
-package co.wasabi.utilities;
+package com.wasabi.utilities;
 
 import java.io.FileInputStream;
 import java.io.IOException;
