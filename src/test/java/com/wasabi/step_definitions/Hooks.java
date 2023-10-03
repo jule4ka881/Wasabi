@@ -1,14 +1,8 @@
 package com.wasabi.step_definitions;
 
-import co.wasabi.utilities.DB_Util;
-import com.wasabi.utilities.ConfigurationReader;
-import com.wasabi.utilities.Driver;
-import io.cucumber.java.Scenario;
-import org.junit.After;
-import org.junit.Before;
-import org.openqa.selenium.TakesScreenshot;
+public class Hooks {
 
-import java.util.concurrent.TimeUnit;
+
 
 /*public class Hooks {
 
@@ -45,3 +39,4 @@ import java.util.concurrent.TimeUnit;
 
 }
 */
+}
