@@ -31,7 +31,7 @@ public class Driver {
 
     // Create a re-usable utility method which will return same driver instance when we call it
     public static WebDriver getDriver() {
-
+//it's a method  that we r using to create our driver instance
         // it will check if driver is null and if it is we will set up browser inside if statement
         // if you already setup driver and using it again for following line of codes, it will return to same driver
         if (driverPool.get() == null) {
